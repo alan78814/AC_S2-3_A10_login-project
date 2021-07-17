@@ -1,6 +1,6 @@
 const db = require('../../config/mongoose.js')
 const User = require('../user.js')
-//模擬資料
+// 模擬資料
 const users = [
   {
     firstName: 'Tony',
