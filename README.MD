@@ -28,7 +28,7 @@ git clone https://github.com/alan78814/AC_S2-3_A10_login-project.git
 ```
 2.進入專案目錄
 ```
-cd AC_S2-3_A10_login-project.git
+cd AC_S2-3_A10_login-project
 ```
 3.安裝套件
 ```
