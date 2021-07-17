@@ -3,11 +3,11 @@
 
 ## 功能說明
 - 使用者可以使用下列預設帳號登入進入歡迎頁面
-email: tony@stark.com password: iamironman
-email: captain@hotmail.com password: icandothisallday
-email: peter@parker.com password: enajyram
-email: natasha@gamil.com password: *parol#@$!
-email: nick@shield.com password: password
+1.email: tony@stark.com password: iamironman
+2.email: captain@hotmail.com password: icandothisallday
+3.email: peter@parker.com password: enajyram
+4.email: natasha@gamil.com password: *parol#@$!
+5.email: nick@shield.com password: password
 
 ## 畫面預覽
 ![image](https://github.com/alan78814/AC_S2-3_Restaurants-List_CRUD/blob/main/1.PNG)
