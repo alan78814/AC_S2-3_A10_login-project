@@ -10,7 +10,7 @@
 5. email: nick@shield.com password: password
 
 ## 畫面預覽
-![image](https://github.com/alan78814/AC_S2-3_A10_login-project/blob/main/%E6%93%B7%E5%8F%96.PNG)
+![image](https://github.com/alan78814/AC_S2-3_A10_login-project/blob/main/public/images/%E6%93%B7%E5%8F%96.PNG)
 
 ## 環境建置
 - Visual Studio Code:1.57.1
