@@ -19,7 +19,8 @@ router.post('/', (req, res) => {
         return res.render('home', { alert: '<h3 class="d-flex justify-content-center mt-3 ">Email尚未註冊</h3>' })
       } else if (req.body.password !== user.password) {
         return res.render('home', { alert: '<h3 class="d-flex justify-content-center mt-3 ml-4">密碼錯誤，請重新輸入</h3>' })
-      } else return res.render('welcomePage', { name: user.firstName })
+      } else return res.render('welcome', { name: user.firstName })
+    .catch(error => console.error(error))
     })
 })
 // 匯出路由模組
